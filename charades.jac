@@ -1,6 +1,8 @@
 # mt_poem.jac - Simple AI integration
 import from mtllm { Model }
+
 import json;
+
 
 glob llm = Model(model_name="gpt-4.1-mini");
 
@@ -83,6 +85,5 @@ walker GameOver {
 
 
 with entry {
-    print("Welcome to the Movie Guessing Game!");
     root spawn GameMaster();
 }
