@@ -1,9 +1,5 @@
-Here is your complete `README.md` content:
-
-```markdown
 # 🎬 Team Gangers - Movie Charades Game
-
-A terminal-based AI-powered game where you guess the movie by asking **yes/no** questions. Powered by Jac Language and OpenAI.
+🎉 **Charades** is a classic guessing game where players try to identify a hidden movie by asking clever yes/no questions. In this AI-powered version, you'll go head-to-head with a smart Game Master to figure out.
 
 ---
 
@@ -81,5 +77,3 @@ jac run charades.jac
 - You can type `"quit"` at any time to exit the game.
 
 🧠 Think smart, ask clever questions, and enjoy the game!
-
-```
